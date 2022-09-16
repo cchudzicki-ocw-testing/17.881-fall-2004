@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The exams section contains the 2003 and 2004 final exams.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

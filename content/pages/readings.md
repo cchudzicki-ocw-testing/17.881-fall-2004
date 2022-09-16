@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the required texts and assigns selections to be read
+  for each lecture.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
